@@ -3,5 +3,5 @@
 @prefix ore: <http://www.openarchives.org/ore/terms/>
 
 <> a ldp:DirectContainer, pcdm:Object ;
-  ldp:membershipResource </rest/objects/raven/> ;
+  ldp:membershipResource </fcrepo/rest/objects/raven/> ;
   ldp:isMemberOfRelation ore:proxyIn .

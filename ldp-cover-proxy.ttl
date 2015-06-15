@@ -2,4 +2,4 @@
 @prefix ore: <http://www.openarchives.org/ore/terms/>
 
 <> a pcdm:Object ;
-  ore:proxyFor </rest/objects/raven/pages/cover> .
+  ore:proxyFor </fcrepo/rest/objects/raven/pages/cover> .
